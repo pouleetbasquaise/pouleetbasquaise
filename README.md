@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Je travaille actuellement sur le développement web<br>🤝 Je cherche de l'aide avec la communauté de programmation<br>🌱 J'apprends actuellement : <br>       Le Js, Le CSS,Python,PHP,MySQL<br>
+🔭 Je travaille actuellement sur le développement web<br>🤝 Je cherche de l'aide avec la communauté de programmation<br>🌱 J'apprends actuellement : <br>      
+Le Js, Le CSS,Python,PHP,MySQL<br>
 
 
 ## 🌐 Socials:
@@ -17,4 +18,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pouleetbasquaise)](https://github.com/pouleetbasquaise/github-profile-trophy)
 ---
-[![](https://visitcount.itsvg.in/api?id=pouleetbasquaise&icon=2&color=4)](https://visitcount.itsvg.in)
+
