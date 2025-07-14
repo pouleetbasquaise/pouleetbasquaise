@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Je travaille actuellement sur le développement web<br>🤝 Je cherche de l'aide avec la communauté de programmation<br>🌱 J'apprends actuellement : <br>      
-Le Js, Le CSS,Python,PHP,Symfony 7<br>
+🔭 Je travaille actuellement sur des projets en C++<br>🤝 Je cherche de l'aide avec la communauté de programmation<br>🌱 J'apprends actuellement : <br>      Le C++<br> <br> Lunarvim enjoyer
 
 
 ## 🌐 Socials:
